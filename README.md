@@ -3,14 +3,15 @@
 </p>
 
 <div align="center" style="
-  background: linear-gradient(180deg, #1e003a, #020617);
+  background: #000000;
   padding: 40px 20px;
   border-radius: 18px;
-  box-shadow: 0 0 40px rgba(168,85,247,0.25);
+  box-shadow: 0 0 40px rgba(168,85,247,0.35);
   margin-bottom: 40px;
 ">
+
   <p style="
-    color: #c4b5fd;
+    color: #ffffff;
     font-size: 16px;
     letter-spacing: 2px;
     margin-bottom: 25px;
@@ -19,7 +20,7 @@
   </p>
 
   <p style="
-    color: #e9d5ff;
+    color: #ffffff;
     font-size: 14px;
     line-height: 1.8;
     max-width: 520px;
@@ -31,7 +32,7 @@
 
   <div style="
     margin-top: 25px;
-    color: #a78bfa;
+    color: #ffffff;
     letter-spacing: 6px;
     font-size: 18px;
   ">
