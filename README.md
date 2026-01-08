@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=36&pause=1200&color=6D28D9&center=true&vCenter=true&width=520&lines=Rebeca+Sadovski" />
 </p>
-
 <div align="center" style="
   background-color: #000000;
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"120\" height=\"120\"><filter id=\"n\"><feTurbulence type=\"fractalNoise\" baseFrequency=\"0.8\" numOctaves=\"4\" stitchTiles=\"stitch\"/></filter><rect width=\"120\" height=\"120\" filter=\"url(%23n)\" opacity=\"0.05\"/></svg>');
+  background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
   padding: 40px 20px;
   border-radius: 18px;
   box-shadow: 0 0 40px rgba(168,85,247,0.35);
