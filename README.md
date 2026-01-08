@@ -1,4 +1,7 @@
 <h2 align="center">Oi, eu sou a Rebeca 👋</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
