@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" />
 </p>
-
-<h2 align="center">Oi, eu sou a Rebeca 👋</h2>
+<h1 align="center">
+  Rebeca Sadovski
+</h1>
 
 <p align="center">
 🎓 Estudante de História<br>
