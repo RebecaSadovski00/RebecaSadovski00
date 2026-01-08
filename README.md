@@ -1,42 +1,35 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=36&pause=1200&color=6D28D9&center=true&vCenter=true&width=520&lines=Rebeca+Sadovski" />
-</p>
-<div align="center" style="
-  background-color: #000000;
-  background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
-  padding: 40px 20px;
-  border-radius: 18px;
-  box-shadow: 0 0 40px rgba(168,85,247,0.35);
-  margin-bottom: 40px;
-">
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Rebeca Sadovski</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-  <p style="
-    color: #ffffff;
-    font-size: 16px;
-    letter-spacing: 2px;
-    margin-bottom: 25px;
-  ">
-    🦋 estudante de história • arquivos • memória • tecnologia ✶
-  </p>
+<body>
 
-  <p style="
-    color: #ffffff;
-    font-size: 14px;
-    line-height: 1.8;
-    max-width: 520px;
-  ">
-    Bacharelanda em História, interessada em arquivos, museus e preservação da memória.
-    Exploro a interseção entre cultura, tecnologia e acesso à informação, unindo
-    pesquisa histórica e experimentação digital.
-  </p>
+  <header class="banner">
+    <img src="assets/banner.png" alt="Banner Rebeca Sadovski">
+  </header>
+  
+  <main class="content">
 
-  <div style="
-    margin-top: 25px;
-    color: #ffffff;
-    letter-spacing: 6px;
-    font-size: 18px;
-  ">
-    ✦ ✧ ✶ ✧ ✦
-  </div>
+    <section class="card">
+      <p class="subtitle">
+        🦋 estudante de história • arquivos • memória • tecnologia ✶
+      </p>
 
-</div>
+      <p class="text">
+        Bacharelanda em História, interessada em arquivos, museus e preservação da memória.
+        Exploro a interseção entre cultura, tecnologia e acesso à informação, unindo
+        pesquisa histórica e experimentação digital.
+      </p>
+
+      <div class="symbols">✦ ✧ ✶ ✧ ✦</div>
+    </section>
+
+  </main>
+
+</body>
+</html>
