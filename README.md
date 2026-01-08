@@ -3,7 +3,8 @@
 </p>
 
 <div align="center" style="
-  background: #000000;
+  background-color: #000000;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"120\" height=\"120\"><filter id=\"n\"><feTurbulence type=\"fractalNoise\" baseFrequency=\"0.8\" numOctaves=\"4\" stitchTiles=\"stitch\"/></filter><rect width=\"120\" height=\"120\" filter=\"url(%23n)\" opacity=\"0.05\"/></svg>');
   padding: 40px 20px;
   border-radius: 18px;
   box-shadow: 0 0 40px rgba(168,85,247,0.35);
